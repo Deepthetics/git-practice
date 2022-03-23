@@ -3,3 +3,4 @@
 - paprika
 - kurkku
 - sipuli
+- valkosipuli
