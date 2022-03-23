@@ -2,3 +2,4 @@
 - salaatti
 - paprika
 - kurkku
+- sipuli
